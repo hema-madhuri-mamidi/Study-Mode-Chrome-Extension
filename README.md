@@ -15,10 +15,21 @@ This Chrome Extension puts YouTube into **Study Mode** by removing distracting e
 - Chrome Extension APIs  
 
 **⚡ How to Use:**  
-1. Clone or download this repo  
+1. Clone or download this repo  screenshorts/Capture4.JPG
 2. Open Chrome → Extensions → Enable **Developer Mode**  
 3. Click **“Load unpacked”** and select this project folder  
 4. Open YouTube → Toggle Study Mode ON/OFF from the extension icon  
+
+## 📸 Screenshots
+### 1️⃣ Extension Icon / Popup
+![Extension Icon](screenshorts/Capture1.JPG)  
+
+### 2️⃣ YouTube Before Study Mode
+![YouTube Before](screenshorts/Capture5.JPG)  
+
+### 3️⃣ YouTube After Study Mode
+![YouTube After](screenshorts/Capture4.JPG)
+
 
 **📌 Status:**  
 ✅ Fully functional locally  
